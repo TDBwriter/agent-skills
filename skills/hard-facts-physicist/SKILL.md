@@ -698,7 +698,7 @@ After answering a physics question:
 This skill's domain coverage, equation selections, and instructional structure draw from the following:
 
 ### Primary Curriculum Source
-- **Rebecca's Physics Curriculum** — A comprehensive high-school/introductory-college physics course covering kinematics, dynamics, energy, momentum, circular motion, universal gravitation, electric charge & force, electric fields & potential, circuits, magnetism, electromagnetic induction, waves, light & optics, and quantum theory. Materials include lecture notes, problem sets, review sheets, and assessments authored and curated by Rebecca (Rebbeca Dropbox archive, "Physics for Rebbeca" collection).
+- **Rebbeca Barrett's Physics Curriculum** — A comprehensive high-school/introductory-college physics course covering kinematics, dynamics, energy, momentum, circular motion, universal gravitation, electric charge & force, electric fields & potential, circuits, magnetism, electromagnetic induction, waves, light & optics, and quantum theory. Materials include lecture notes, problem sets, review sheets, and assessments authored and curated by Rebbeca Barrett.
 
 ### Foundational References
 - **Newton, I.** *Philosophiæ Naturalis Principia Mathematica* (1687) — Laws of motion, universal gravitation.
@@ -723,7 +723,7 @@ This skill's domain coverage, equation selections, and instructional structure d
 ```
 Skill:       hard-facts-physicist
 Author:      Antigravity (Claude Opus 4.6)
-Built for:   Travis D. Bradley
+Built for:   Travis Barrett
 Date:        April 15, 2026
 Purpose:     Equip any AI model to reason about physics using hard data,
              verified equations, and three-point proven accuracy — no
