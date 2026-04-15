@@ -173,7 +173,7 @@ Every component must meet these standards:
 <button onClick={handleClick}>Click me</button>        // ✓ Focusable by default
 <div onClick={handleClick}>Click me</div>               // ✗ Not focusable
 <div role="button" tabIndex={0} onClick={handleClick}    // ✓ But prefer <button>
-     onKeyDown={e => e.key === 'Enter' && handleClick()}>
+     onKeyDown={e => (e.key === 'Enter' || e.key === ' ') && handleClick()}>
   Click me
 </div>
 ```
@@ -285,6 +285,10 @@ function useToggleTask() {
   });
 }
 ```
+
+## See Also
+
+For detailed accessibility requirements and testing tools, see `references/accessibility-checklist.md`.
 
 ## Common Rationalizations
 
